@@ -1,5 +1,9 @@
 # How and why I use AI generated code. 
 A small repository with reasons why I use generated code.
+## TLDR
+I will use AI code in my own projects if I understand what it does.  
+I won't use AI code in other's projects unless the project owners allow it and I understand every line of code it produced.  
+I DON'T blindly copy and paste AI code, that is irresponsible. I use AI code as a last resort if there are no other resources(documentation, forums) providing a solution to my problem.  
 ## Background
 I am a self taught developer of dubious skill, I have learned various languages over the years but have used JavaScript the most. Answers from places such as StackOverflow have been invaluable in learning how to properly implement specific problems that I was unable to understand by just reading the documentation. Before the inception of LLMs for code generation, those resources were key in my programming journey, however they often were not the *exact* solution I needed. I often found myself spending a few minutes to a few days figuring out how to properly implement the code in to my project.  
 Due to the nature of being self taught, I do not have any sort of mentor to whom I can pose questions if I ever run in to a problem understanding documentation. I never posted a question on a place like StackOverflow since it has a reputation for being dismissive is a question seemed to simple. This is where AI (LLMs) come in to play. 
